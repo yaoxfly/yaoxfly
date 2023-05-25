@@ -1,6 +1,6 @@
 ### welcome 👋
  I’m currently working on Fu Zhou.
- My blog[https://yaoxfly.github.io] 
+ More can poke my blog[https://yaoxfly.github.io] 
 <!--
 **yaoxfly/yaoxfly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
